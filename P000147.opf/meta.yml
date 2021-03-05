@@ -1,11 +1,13 @@
-ebook_metadata:
+id: P000147
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །བསྐྱེད་རིམ་སྤྱིའི་རྣམ་ངེས་དང་བསྙེན་སྒྲུབ་མཚམས་ཀྱི་སྤྱི་གནད་མདོར་བསྡུས་པ་རབ་གསལ་ནོར་བུའི་སྒྲོན་མེ་ཞེས་བྱ་བ་བཞུགས་སོ།།
   authors:
   - མཛད་པ་པོ། པདྨ་གར་དབང་བློ་གྲོས་མཐའ་ཡས།
-  sku: SHE-RTD-16
   layers:
   - book_title
   - author
+  id: SHE-RTD-16
 web_metadata:
   title:
     en: The Illuminating Jewel Lamp:A Detailed Explanation of  the General Creation
